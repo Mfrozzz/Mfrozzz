@@ -42,3 +42,11 @@
 
 ##
 <br>
+<div>
+  
+  ## 📲 Contato
+  <ul>
+  <li><a href="https://www.linkedin.com/in/marcos-vinicius-boava-660322293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
+  <li>📧 marcosvinibva@gmail.com</li>
+</ul>
+</div>
