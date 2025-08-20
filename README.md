@@ -4,6 +4,7 @@
 <br>
 <ul>
   <li>📚 I have a degree in Computer Science at Universidade Estadual do Centro-Oeste do Paraná (UNICENTRO)</li>
+  <li>🎓 I completed a postgraduate (<i>lato sensu</i>) specialization in UX Design at Unicesumar.</li>
   <li>⌨️ I currently work as a Full-Stack web developer at NEAD - UNICENTRO</li>
   <li>🌎 Guarapuava - Paraná - Brasil</li>
 </ul>
