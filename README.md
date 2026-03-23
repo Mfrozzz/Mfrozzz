@@ -22,7 +22,7 @@
   [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,c,cpp,java,php,go,sass,md,haskell,latex)](https://skillicons.dev)
 
   #### Libraries and Frameworks
-  [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular,react,laravel,materialui,tailwind,bootstrap,jest,vite,opencv,prisma,hibernate,tensorflow)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular,react,laravel,materialui,tailwind,bootstrap,jest,nest,opencv,prisma,hibernate,tensorflow)](https://skillicons.dev)
 
   #### Tools and platforms
   [![Tools](https://skillicons.dev/icons?i=azure,docker,firebase,git,github,gcp,linux,mongodb,mysql,postgres,postman,supabase,windows,unity)](https://skillicons.dev)
