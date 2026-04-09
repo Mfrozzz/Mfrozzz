@@ -22,13 +22,13 @@
   [![Languages](https://skillicons.dev/icons?i=ts,js,html,css,py,c,cpp,java,php,go,sass,md,haskell,latex)](https://skillicons.dev)
 
   #### Libraries and Frameworks
-  [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular,react,laravel,materialui,tailwind,bootstrap,jest,nest,opencv,prisma,hibernate,tensorflow)](https://skillicons.dev)
+  [![Frameworks](https://skillicons.dev/icons?i=nodejs,express,angular,react,laravel,materialui,tailwind,bootstrap,jest,nest,nextjs,prisma,hibernate,tensorflow)](https://skillicons.dev)
 
   #### Tools and platforms
-  [![Tools](https://skillicons.dev/icons?i=azure,docker,firebase,git,github,gcp,linux,mongodb,mysql,postgres,postman,supabase,windows,unity)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=azure,docker,firebase,git,githubactions,gcp,linux,mongodb,mysql,postgres,postman,supabase,windows,unity)](https://skillicons.dev)
 
   ### 📝 Learning About
-  [![Learning](https://skillicons.dev/icons?i=androidstudio,aws,dart,cs,dotnet,flask,flutter,nextjs,ruby,rails,spring,kubernetes,vue,discordjs)](https://skillicons.dev)
+  [![Learning](https://skillicons.dev/icons?i=androidstudio,aws,dart,cs,dotnet,flask,flutter,jenkins,ruby,rails,spring,kubernetes,vue,discordjs)](https://skillicons.dev)
   
 </div>
 
