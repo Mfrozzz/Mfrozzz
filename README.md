@@ -38,7 +38,7 @@
   
   ## 📊 Contributions
   <a>
-    <img width=450 height=170 align="center" alt="github infos" src="https://github-readme-stats.vercel.app/api?username=Mfrozzz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="github infos" src="https://github-readme-stats.vercel.app/api?username=Mfrozzz&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a> 
     <img align="center" alt="github infos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfrozzz&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
